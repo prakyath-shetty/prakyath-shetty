@@ -1,6 +1,13 @@
-# Prakyath Shetty
+# 👋 Hello, I'm Prakyath Shetty
 
-Backend & Full-Stack Engineer focusing on scalable API architecture and secure system design.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Backend+Specialist;Building+Scalable+Systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/prakyath-shetty"><img src="https://img.shields.io/github/followers/prakyath-shetty?label=Followers&style=social" alt="Followers"></a>
+  <a href="https://github.com/prakyath-shetty"><img src="https://img.shields.io/github/stars/prakyath-shetty?label=Stars&style=social" alt="Stars"></a>
+</p>
 
 ---
 
@@ -14,19 +21,24 @@ I am a **Software Engineer** specialized in the **Node.js ecosystem**, with a pr
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Technical Arsenal
 
-**Programming Languages**
-`JavaScript (ES6+)`, `TypeScript`, `HTML5`, `CSS3`
-
-**Backend & Database**
-`Node.js`, `Express.js`, `PostgreSQL`, `Supabase`, `Firebase`
-
-**DevOps & Infrastructure**
-`Docker`, `Docker Compose`, `Vercel`, `Render`, `Git`, `GitHub`
-
-**Development Tools**
-`Swagger UI (OpenAPI)`, `Postman`, `JWT`
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>🌐 Frontend</strong><br />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+    </td>
+    <td align="center" width="33%">
+      <strong>⚙️ Backend</strong><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,firebase" />
+    </td>
+    <td align="center" width="33%">
+      <strong>📦 DevOps & Tools</strong><br />
+      <img src="https://skillicons.dev/icons?i=docker,vercel,render,github,git,postman" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -43,9 +55,13 @@ I am a **Software Engineer** specialized in the **Node.js ecosystem**, with a pr
 
 ### 📈 Engineering Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakyath-shetty&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakyath-shetty&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="300" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakyath-shetty&show_icons=true&theme=tokyonight&hide_border=true" alt="General Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakyath-shetty&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakyath-shetty&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -67,5 +83,10 @@ I am a **Software Engineer** specialized in the **Node.js ecosystem**, with a pr
 ### 📫 Connect with me
 <p align="left">
   <a href="https://github.com/prakyath-shetty"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/g-prakyath-s-shetty-ab4519395"<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/g-prakyath-s-shetty-ab4519395"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
